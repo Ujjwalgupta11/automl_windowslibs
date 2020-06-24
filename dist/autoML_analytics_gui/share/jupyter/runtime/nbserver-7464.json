@@ -1,0 +1,9 @@
+{
+  "url": "http://localhost:8888/",
+  "secure": false,
+  "base_url": "/",
+  "port": 8888,
+  "hostname": "localhost",
+  "notebook_dir": "E:\\office\\data_robot\\hyperparameter tuning",
+  "pid": 7464
+}

@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "E:\\office\\data_robot\\UI\\GUI\\GUI",
+  "password": false,
+  "pid": 6956,
+  "port": 8888,
+  "secure": false,
+  "token": "97e32eb4b0817f8d18dd5b959930d8063b864594a9c4c8cd",
+  "url": "http://localhost:8888/"
+}

@@ -1,0 +1,9 @@
+{
+  "hostname": "localhost",
+  "secure": false,
+  "port": 8888,
+  "base_url": "/",
+  "pid": 1292,
+  "notebook_dir": "E:\\office\\data_robot\\Model_Monitoring",
+  "url": "http://localhost:8888/"
+}

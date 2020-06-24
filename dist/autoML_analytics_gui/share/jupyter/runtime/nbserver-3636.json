@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "E:\\office\\data_robot\\Model_Monitoring",
+  "password": false,
+  "pid": 3636,
+  "port": 8888,
+  "secure": false,
+  "token": "07dc7afea0b25d16f6c54d1cec9331c265ca55033690c6a7",
+  "url": "http://localhost:8888/"
+}

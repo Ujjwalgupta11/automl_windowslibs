@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "E:\\office\\NLP\\feedback_analysis",
+  "password": false,
+  "pid": 7100,
+  "port": 8888,
+  "secure": false,
+  "token": "4db7af4d22a985ec1e5fdd9a018c9f8f0c325937cb5a8acc",
+  "url": "http://localhost:8888/"
+}

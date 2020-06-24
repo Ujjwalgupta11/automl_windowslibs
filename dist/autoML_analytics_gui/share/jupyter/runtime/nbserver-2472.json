@@ -1,0 +1,9 @@
+{
+  "secure": false,
+  "notebook_dir": "E:\\office",
+  "hostname": "localhost",
+  "port": 8888,
+  "base_url": "/",
+  "pid": 2472,
+  "url": "http://localhost:8888/"
+}
