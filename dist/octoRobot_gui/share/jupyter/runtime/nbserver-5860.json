@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "E:\\office\\training\\ML Basics",
+  "password": false,
+  "pid": 5860,
+  "port": 8888,
+  "secure": false,
+  "token": "10299063df8f70e192632863cfa3a3bda2fe26389d5e391d",
+  "url": "http://localhost:8888/"
+}
