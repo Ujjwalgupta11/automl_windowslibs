@@ -90,7 +90,7 @@ parameter_dict = {
             'clf__max_depth': [3,4,6,8],
             'clf__n_estimators': [30,50,80,100],
             'clf__gamma': [0,1,5],
-            'clf__scale_pos_weight':[1,10,25,50,75,99,100],            
+             #'clf__scale_pos_weight':[1,10,25,50,75,99,100],
             #'clf__subsample': [0.4,0.6,0.8],
             #'clf__colsample_bytree': [0.5,0.6,0.8],
         }
