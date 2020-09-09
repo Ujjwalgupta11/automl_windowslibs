@@ -40,7 +40,7 @@ param_spaces = hp.choice('classifier_type', [
         'model': 'random_forest',
         'max_depth': hp.choice('max_depth_rf', range(1, 10)),
         'max_features': hp.choice('max_features_rf', ["sqrt", 'log2']),
-        'n_estimators': hp.choice('n_estimators_rf', range(1, 100)),
+        'n_estimators': hp.choice('n_estimators_rf', range(40, 101,10)),
         'criterion': hp.choice('criterion_rf', ["gini", "entropy"]),
 #        'bootstrap': hp.choice('bootstrap', [True]),
         'random_state': hp.choice('random_state', [12345]),
@@ -64,7 +64,8 @@ parameter_dict = {
             'clf': [RandomForestClassifier(random_state=12345,n_jobs=3)],
             'clf__max_features': ['sqrt', 'log2'],
             'clf__max_depth': [3, 5, 6, 7, 8, 9, 10],
-            'clf__n_estimators': [20, 30, 40, 50]
+		    #'clf__n_estimators': [40, 50]
+            'clf__n_estimators': [40, 50,60,70,80,90,100]
             # more parameters for RandomForesetClassifier
         },
     'naive_bayes':
@@ -74,6 +75,7 @@ parameter_dict = {
         },
     'logistic_regression':
         {
+
             'clf': [LogisticRegression(random_state=12345)],
             'clf__penalty': ['l2'],
             'clf__C': np.logspace(0, 4, 8)

@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "E:\\office\\RecommendationSystem\\Recommender_System\\notebooks",
+  "password": false,
+  "pid": 4312,
+  "port": 8888,
+  "secure": false,
+  "token": "58f1c93f5ed801ac2e3999f1f5a7e046f339f76e3082ecad",
+  "url": "http://localhost:8888/"
+}
